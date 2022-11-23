@@ -1,0 +1,60 @@
+{
+  "servicos": [
+    {
+      "nome": "Hotel Deauville",
+      "comodidades": " Ar-condicionado, Wifi, Tv, Restaurante",
+      "avaliacao": " Excelente "
+    },
+    {
+      "nome": " Hotel Swissôtel ",
+      "comodidades": " Ar-condicionado, Wifi, Tv, Bar ",
+      "avaliacao": " Excelente "
+    },
+    {
+      "nome": " Sapporo Hotel ",
+      "comodidades": " Ar-condicionado, Wifi, Tv, Aceita animais de estimação ",
+      "avaliacao": " Excelente "
+    },
+    {
+      "nome": " Gran Hotel ",
+      "comodidades": " Ar-condicionado, Wifi, Tv, Café da manhâ ",
+      "avaliacao": " Excelente "
+    }
+  ],
+  "reservas": [
+    {
+      "diarias": " 450,00 ",
+      "entradaesaida": " 31/12/2022, 01/01/2023"
+    },
+    {
+      "diarias": " 600,00 ",
+      "entradaesaida": " 31/12/2022, 01/01/2023"
+    },
+    {
+      "diarias": " 550,00 ",
+      "entradaesaida": " 31/12/2022, 01/01/2023"
+    },
+    {
+      "diarias": " 400,00 ",
+      "entradaesaida": " 31/12/2022, 01/01/2023"
+    }
+  ],
+  "localizacao": [
+    {
+      "bairro": " Leblon ",
+      "endereco": " R. José Linhares, RJ - 22430-220 "
+    },
+    {
+      "bairro": " Ipanema ",
+      "endereco": " Av. Vieira Souto, RJ - 22420-004 "
+    },
+    {
+      "bairro": " Angra dos reis",
+      "endereco": " R. Oswaldo Neves Martins, Rj - 23900-030 "
+    },
+    {
+      "bairro": " Barra da tijuca ",
+      "endereco": " Av. Lúcio Costa, RJ - 22630-010 "
+    }
+  ]
+}
